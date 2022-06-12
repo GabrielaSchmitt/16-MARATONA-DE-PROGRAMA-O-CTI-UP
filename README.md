@@ -9,9 +9,9 @@ Olá, este repositório contém alguns códigos desenvolvidos no dia dois de Jun
 
 ## Programas desenvolvidos
 
-- 
-- 
-- 
+- Diamantes de Areia 
+- Grenais 
+- Idade em Dias
 
 ## Como rodar os códigos
 
@@ -30,9 +30,9 @@ Hi, nice to see you around! This repository contains some Java codes develped on
 
 ## Developed applications
 
-- 
-- 
-- 
+- Diamantes de Areia 
+- Grenais 
+- Idade em Dias
 
 ## How to run the codes
 
