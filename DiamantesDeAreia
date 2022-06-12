@@ -9,7 +9,13 @@ Deve ser lido um valor inteiro N que representa a quantidade de casos de teste. 
 incluindo "<,>, ."
 
 Saída:
-Você deve imprimir a quantidade de diamantes possíveis de serem extraídos em cada caso de entrada.*/
+Você deve imprimir a quantidade de diamantes possíveis de serem extraídos em cada caso de entrada.
+
+      input              |      output
+___________________________________________________
+2 			 |  3
+<..><.<..>>		 |  1
+<<<..<......<<<<....>    |                                 */
 
 import java.io.BufferedReader;
 import java.io.IOException;
