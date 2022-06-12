@@ -1,6 +1,8 @@
 <h1 align="center">
   <br>16ª MARATONA DE PROGRAMAÇÃO - ESCOLA DE TECNOLÓGICA DA UNIVERSIDADE POSITIVO POR FPRZYSIADA</h1>
 
+![image](https://user-images.githubusercontent.com/86369677/173253371-4d4333df-7688-4f1c-ab3b-b24541ba3d91.png)
+
 <a id="pt-readme"></a>
 ## [English](#en-readme) | Português
 
@@ -40,4 +42,6 @@ To run the codes you need a Java IDE such as **VSCODE, Eclipse**   just sownload
 
 
 ✨ Thanks for your attention! ✨
+
+![image](https://user-images.githubusercontent.com/86369677/173253378-721048ae-6d00-4571-abac-1ec4da8714fb.png)
 
