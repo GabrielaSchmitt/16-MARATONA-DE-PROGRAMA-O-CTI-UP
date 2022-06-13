@@ -15,6 +15,7 @@ Olá, este repositório contém alguns códigos desenvolvidos no dia dois de Jun
 - Grenais - Java
 - Idade em Dias - Java
 - Teste de Seleção 1 - Abap
+- Criptografia - Python
 
 ## Como rodar os códigos
 
@@ -37,6 +38,7 @@ Hi, nice to see you around! This repository contains some Java codes develped on
 - Grenais - Java
 - Idade em Dias - Java
 - Teste de Seleção 1 - Abap
+- Criptografia - Python
 
 ## How to run the codes
 
