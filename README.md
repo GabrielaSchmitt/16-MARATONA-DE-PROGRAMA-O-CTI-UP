@@ -9,11 +9,12 @@
 Olá, este repositório contém alguns códigos desenvolvidos no dia dois de Junho de 2022, onde os contribuidores deste repositório participaram da Maratona de Programação da Universidade Positivo, alcançando o **quarto lugar**!! A maratona foi feita utilizando o site Beecrowd. 
 
 
-## Programas desenvolvidos
+## Programas desenvolvidos   |     Linguagem
 
-- Diamantes de Areia 
-- Grenais 
-- Idade em Dias
+- Diamantes de Areia - Java
+- Grenais - Java
+- Idade em Dias - Java
+- Teste de Seleção 1 - Abap
 
 ## Como rodar os códigos
 
@@ -30,11 +31,12 @@ Para rodar os códigos é necessária uma IDE Java como o **VSCODE, Eclipse** ba
 Hi, nice to see you around! This repository contains some Java codes develped on June eleventh 2022, in which this repository's contributors participated in the Programming Marathon from Positivo University, and achieved **fourth** position! The marathon was taken in the website Beecrowd. 
 
 
-## Developed applications
+## Developed applications    |     Language
 
-- Diamantes de Areia 
-- Grenais 
-- Idade em Dias
+- Diamantes de Areia -    Java
+- Grenais - Java
+- Idade em Dias - Java
+- Teste de Seleção 1 - Abap
 
 ## How to run the codes
 
