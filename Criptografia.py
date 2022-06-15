@@ -28,7 +28,7 @@
 # vv.xwfxo.fd        |  gi.r{hyz-xx
 #                      
 
-frase = input("Digit somethng to be encrypted:")
+frase = input("Digit something to be encrypted:")
 
 #if it is a letter must turn into the ascii Symbol deslocated 3 characters
 i = 0
