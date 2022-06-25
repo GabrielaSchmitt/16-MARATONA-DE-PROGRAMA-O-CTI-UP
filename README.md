@@ -11,10 +11,10 @@ Olá, este repositório contém alguns códigos desenvolvidos no dia dois de Jun
 
 ## Programas desenvolvidos   |     Linguagem
 
-- Diamantes de Areia - `Java`
-- Grenais - `Java`
-- Idade em Dias - `Java`
-- Teste de Seleção 1 - `Abap`
+- [Diamantes de Areia](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/DiamantesDeAreia.java) `Java`
+- [Grenais](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Grenais.java) `Java`
+- [Idade em Dias](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/IdadeEmDias.java) `Java`
+- [Teste de Seleção 1](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/TesteDeSele%C3%A7%C3%A3o1.abap) `Abap`
 - [Criptografia](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Criptografia.py) `Python`
 
 ## Como rodar os códigos
